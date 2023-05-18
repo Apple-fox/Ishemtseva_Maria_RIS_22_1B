@@ -1,0 +1,5 @@
+﻿  lab_class_6.cpp
+C:\Users\Мария\Desktop\ccc\lab_class_6\lab_class_6.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Spisok.cpp
+  Создание кода...
+  lab_class_6.vcxproj -> C:\Users\Мария\Desktop\ccc\lab_class_6\x64\Debug\lab_class_6.exe
