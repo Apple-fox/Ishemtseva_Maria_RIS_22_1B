@@ -1,0 +1,6 @@
+﻿  lab_class_4.cpp
+  Person.cpp
+C:\Users\Мария\Desktop\ccc\lab_class_4\Person.cpp(13,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Student.cpp
+  Создание кода...
+  lab_class_4.vcxproj -> C:\Users\Мария\Desktop\ccc\lab_class_4\x64\Debug\lab_class_4.exe
