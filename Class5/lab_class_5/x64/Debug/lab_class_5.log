@@ -1,0 +1,3 @@
+﻿  lab_class_5.cpp
+C:\Users\Мария\Desktop\ccc\lab_class_5\lab_class_5.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  lab_class_5.vcxproj -> C:\Users\Мария\Desktop\ccc\lab_class_5\x64\Debug\lab_class_5.exe
