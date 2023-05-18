@@ -1,0 +1,4 @@
+﻿  lab_class_10.cpp
+C:\Users\Мария\Desktop\ccc\lab_class_10\file_work.h(125,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Мария\Desktop\ccc\lab_class_10\file_work.h(126,9): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  lab_class_10.vcxproj -> C:\Users\Мария\Desktop\ccc\lab_class_10\x64\Debug\lab_class_10.exe
