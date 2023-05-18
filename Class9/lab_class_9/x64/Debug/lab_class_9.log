@@ -1,0 +1,4 @@
+﻿  List3.cpp
+C:\Users\Мария\Desktop\ccc\lab_class_9\List3.cpp(119): warning C4172: возвращение адреса локальной или временной переменной : newlist
+C:\Users\Мария\Desktop\ccc\lab_class_9\List3.cpp(165): warning C4715: List3::operator+: значение возвращается не при всех путях выполнения
+  lab_class_9.vcxproj -> C:\Users\Мария\Desktop\ccc\lab_class_9\x64\Debug\lab_class_9.exe
