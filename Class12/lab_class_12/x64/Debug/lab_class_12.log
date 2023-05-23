@@ -1,0 +1,153 @@
+﻿  lab_class_12.cpp
+C:\Users\Мария\Desktop\ccc\lab_class_12\lab_class_12.cpp(135,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(1528,27): warning C4244: аргумент: преобразование "const _Kty" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Kty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(1527): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool std::_Debug_lt_pred<const std::less<int>&,const _Keyty&,const _Kty&,0>(_Pr,_Ty1,_Ty2) noexcept(<expr>)"
+          with
+          [
+              _Keyty=double,
+              _Kty=double,
+              _Pr=const std::less<int> &,
+              _Ty1=const double &,
+              _Ty2=const double &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree(992): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tree_find_result<std::_Tree_node<double,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,true>>::_Find_upper_bound<_Kty>(const _Keyty &) const"
+          with
+          [
+              _Alloc=std::allocator<double>,
+              _Kty=double,
+              _Pr=std::less<int>,
+              _Keyty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree(1011): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tree_find_result<std::_Tree_node<double,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,true>>::_Find_upper_bound<_Kty>(const _Keyty &) const"
+          with
+          [
+              _Alloc=std::allocator<double>,
+              _Kty=double,
+              _Pr=std::less<int>,
+              _Keyty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree(1234): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<std::_Tree_node<double,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,true>>::_Emplace<double>(double &&)"
+          with
+          [
+              _Alloc=std::allocator<double>,
+              _Kty=double,
+              _Pr=std::less<int>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree(1234): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<std::_Tree_node<double,std::_Default_allocator_traits<_Alloc>::void_pointer> *,bool> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,true>>::_Emplace<double>(double &&)"
+          with
+          [
+              _Alloc=std::allocator<double>,
+              _Kty=double,
+              _Pr=std::less<int>
+          ]
+C:\Users\Мария\Desktop\ccc\lab_class_12\lab_class_12.cpp(14): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,true>>::insert<true,0>(double &&)"
+          with
+          [
+              _Kty=double,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<double>
+          ]
+C:\Users\Мария\Desktop\ccc\lab_class_12\lab_class_12.cpp(14): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tree_const_iterator<std::_Tree_val<std::_Tree_simple_types<double>>> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,true>>::insert<true,0>(double &&)"
+          with
+          [
+              _Kty=double,
+              _Pr=std::less<int>,
+              _Alloc=std::allocator<double>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(1528,20): warning C4244: аргумент: преобразование "const _Keyty" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Keyty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(1528,62): warning C4244: аргумент: преобразование "const _Keyty" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Keyty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(1528,54): warning C4244: аргумент: преобразование "const _Kty" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Kty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(1530,57): warning C4244: аргумент: преобразование "const _Kty" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Kty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree(1576): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool std::_Debug_lt_pred<const std::less<int>&,const _Keyty&,const _Kty&,0>(_Pr,_Ty1,_Ty2) noexcept(false)"
+          with
+          [
+              _Keyty=double,
+              _Kty=double,
+              _Pr=const std::less<int> &,
+              _Ty1=const double &,
+              _Ty2=const double &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree(992): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tree_find_result<std::_Tree_node<double,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,true>>::_Find_upper_bound<_Kty>(const _Keyty &) const"
+          with
+          [
+              _Alloc=std::allocator<double>,
+              _Kty=double,
+              _Pr=std::less<int>,
+              _Keyty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xtree(1011): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tree_find_result<std::_Tree_node<double,std::_Default_allocator_traits<_Alloc>::void_pointer> *> std::_Tree<std::_Tset_traits<_Kty,_Pr,_Alloc,true>>::_Find_upper_bound<_Kty>(const _Keyty &) const"
+          with
+          [
+              _Alloc=std::allocator<double>,
+              _Kty=double,
+              _Pr=std::less<int>,
+              _Keyty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(1530,50): warning C4244: аргумент: преобразование "const _Keyty" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Keyty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(1532,9): warning C4244: аргумент: преобразование "const _Keyty" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Keyty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\xutility(1532,9): warning C4244: аргумент: преобразование "const _Kty" в "const _Ty", возможна потеря данных
+          with
+          [
+              _Kty=double
+          ]
+          and
+          [
+              _Ty=int
+          ]
+  lab_class_12.vcxproj -> C:\Users\Мария\Desktop\ccc\lab_class_12\x64\Debug\lab_class_12.exe
